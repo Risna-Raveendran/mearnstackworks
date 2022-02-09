@@ -1,0 +1,9 @@
+div{
+    width: 24%;
+    background-color: tomato;
+    float: left;
+    border: black 2px solid;
+}
+img{
+    width: 100%;
+}

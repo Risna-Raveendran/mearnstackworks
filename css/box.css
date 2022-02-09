@@ -1,0 +1,21 @@
+div{
+    /* background-color: darkblue; */
+    width: 200px;
+    height: 300px;
+    
+    /* margine left
+    margine right
+    margine top
+    margine bottum*/
+
+}
+#b1{
+    background-color: darkgreen;
+    margin-top: 100px;
+}
+#b2{
+    background-color: darkmagenta;
+    margin-top: -298px;
+    margin-left: 250px;
+}
+

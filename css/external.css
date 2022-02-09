@@ -1,0 +1,12 @@
+h1{
+    color: purple;
+}
+body{
+    background-color: darkgray;
+}
+div{
+    background-color: rosybrown;
+    height: 300px;
+    width: 800px;
+    border: blue 2px solid;
+}
